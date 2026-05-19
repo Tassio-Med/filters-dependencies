@@ -1,4 +1,4 @@
-import {FILTRO_TODOS } from '../constants';
+import { FILTRO_TODOS } from '../constants';
 
 export const limpaFiltrosInvalidos = () => {
     const filtrosLimpos = {};
