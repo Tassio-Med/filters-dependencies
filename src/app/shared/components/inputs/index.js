@@ -1,0 +1,1 @@
+export { default as Pesquisa } from "./Pesquisa";
