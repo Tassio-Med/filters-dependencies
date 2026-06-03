@@ -57,7 +57,7 @@ class PostController {
     }
   }
 
-  static async buscarComentatios(postId) {
+  static async buscarComentarios(c) {
     if(!isValidId(postId)) {
       return {
         dados: null,
